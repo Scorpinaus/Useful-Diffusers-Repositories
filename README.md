@@ -25,6 +25,8 @@ https://github.com/huggingface/controlnet_aux
 compel - Prompting enhancement repo 
 https://github.com/damian0815/compel
 
+Memory Management 3.6.16 for the GPU Poor by DeepBeepMeep - Memory Management for GPU Poor
+https://github.com/deepbeepmeep/mmgp
 
 # Updates
 08/02/2026 Initial Release
