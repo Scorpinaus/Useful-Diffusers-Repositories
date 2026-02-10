@@ -28,5 +28,13 @@ https://github.com/damian0815/compel
 Memory Management 3.6.16 for the GPU Poor by DeepBeepMeep - Memory Management for GPU Poor
 https://github.com/deepbeepmeep/mmgp
 
+Ai-Toolkit - all in one training suite for diffusion models designed for consumer hardware
+https://github.com/ostris/ai-toolkit
+
+InvokeAI - WebUI built on top of Huggingface diffusers
+https://github.com/invoke-ai/InvokeAI
+
+
 # Updates
-08/02/2026 Initial Release
+10/02/2026 - Added Ai-Toolkit and InvokeAI to the list
+08/02/2026 -  Initial Release
